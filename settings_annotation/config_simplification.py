@@ -4,7 +4,7 @@ Specify and load your simplification model here.
 
 import subprocess, os, sys
 
-load_simplification_model = True
+load_simplification_model = False
 simplification_model = "MUSS (Martin et al. (2021))"
 
 if __name__ == '__main__':
